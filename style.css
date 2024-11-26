@@ -1,0 +1,128 @@
+body{
+    background-image: url(/IMAGE/muhlviertel-7544316_1920.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+h2{
+    padding-left: 80px;
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+}
+h5{
+    font-size: 18px;
+    text-align: center;
+}
+button{
+    align-items: center;
+    border-radius: 20px;
+    background-color: yellow;
+    border: 0;
+    padding: 13px 25px;
+    font-size: 20px;
+    margin-left: 670px;
+    font-weight: 750;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin: 0 15px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .hero-section {
+    padding: 60px 10%;
+  }
+  
+  .features-section {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+   .contact-form input,
+  .contact-form textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+    width: 40%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 10px;
+  }
+  
+  .contact-form button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background: #4CAF50;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 25px;
+  }
+  #h2feature{
+    color: #fff;
+    font-size: 40px;
+    padding-right: 65px;
+    padding-top: 405px;
+  }
+  .feature1{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+  }
+  .feature2{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+  }
+  .feature3{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+  }
+  .aboutp{
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+  }
+  #abouth2{
+    padding-right: 85px;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+  }
+  .footer {
+    text-align: center;
+    padding: 20px 10%;
+    background: #cdcccc;
+    color: white;
+  }
+  .contacth2{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+  }
